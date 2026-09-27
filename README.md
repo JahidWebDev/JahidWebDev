@@ -25,9 +25,9 @@ using React, Node.js and MongoDB.
 
 ## 🚀 About Me
 
-<div align="left">
+<div style="display: flex; justify-content: space-between; align-items: center;">
 
-<div style="display: inline-block; width: 65%; vertical-align: top;">
+<div style="width: 65%;">
 
 - 💻 Frontend & MERN Stack Developer
 - ⚛️ React.js Developer
@@ -42,7 +42,7 @@ using React, Node.js and MongoDB.
 
 </div>
 
-<div style="display: inline-block; width: 30%; text-align: center; vertical-align: middle;">
+<div style="width: 30%; text-align: center;">
 
 <img
   src="https://raw.githubusercontent.com/JahidWebDev/JahidWebDev/main/3.gif"
