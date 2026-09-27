@@ -22,13 +22,12 @@ I build modern, responsive and interactive web applications
 using React, Node.js and MongoDB.
 
 ---
-
 ## 🚀 About Me
 
-<div align="center">
+<div align="left">
 
-  <div>
-    
+  <div style="display: inline-block; width: 60%; vertical-align: top;">
+
 - 💻 Frontend & MERN Stack Developer
 - ⚛️ React.js Developer
 - 🟢 Node.js & Express.js Developer
@@ -42,13 +41,15 @@ using React, Node.js and MongoDB.
 
   </div>
 
-  <br>
+  <div style="display: inline-block; width: 35%; vertical-align: middle; text-align: center;">
 
-  <img
-    src="https://raw.githubusercontent.com/JahidWebDev/JahidWebDev/main/3.gif"
-    width="280"
-    alt="Jahid Hossen Coding Animation"
-  />
+<img
+  src="https://raw.githubusercontent.com/JahidWebDev/JahidWebDev/main/3.gif"
+  width="280"
+  alt="Jahid Hossen Coding Animation"
+/>
+
+  </div>
 
 </div>
 
