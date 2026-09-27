@@ -1,3 +1,32 @@
+<!-- Animated Developer Header -->
+
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0AE448,100:191919&height=230&section=header&text=Jahid%20Hossen&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Frontend%20%26%20MERN%20Stack%20Developer&descAlignY=60&descSize=18"
+  width="100%"
+  alt="Jahid Hossen GitHub Header"
+/>
+
+</div>
+
+<br />
+
+<!-- Typing Animation -->
+
+<div align="center">
+
+<a href="https://github.com/JahidWebDev">
+
+<img
+  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=0AE448&center=true&vCenter=true&width=750&lines=Frontend+%26+MERN+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;Building+Modern+%26+Responsive+Websites;GSAP+%7C+Tailwind+CSS+%7C+JavaScript;Turning+Ideas+Into+Web+Experiences+%F0%9F%9A%80"
+  alt="Typing SVG"
+/>
+
+</a>
+
+</div>
+ 
  Hi there 👋
 
 
