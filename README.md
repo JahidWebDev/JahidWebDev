@@ -5,14 +5,6 @@
   <!-- Typing Animation -->
 
 
-  <!-- Coding Animation -->
-  <img
-    src="https://raw.githubusercontent.com/JahidWebDev/JahidWebDev/main/3.gif"
-    width="400"
-    alt="Jahid Hossen Coding Animation"
-  />
-
-  <br><br>
   <a href="https://github.com/JahidWebDev">
     <img
       src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=0AE448&center=true&vCenter=true&width=750&lines=Frontend+%26+MERN+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;Building+Modern+%26+Responsive+Websites;GSAP+%7C+Tailwind+CSS+%7C+JavaScript;Turning+Ideas+Into+Web+Experiences+%F0%9F%9A%80"
