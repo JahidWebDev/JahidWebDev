@@ -84,7 +84,7 @@ Git • GitHub • VS Code • Figma • Adobe Illustrator
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,git,github,figma,gsap" />
 </p>
 
----
+
 
 ## 🌐 Connect With Me
 
@@ -92,7 +92,7 @@ Git • GitHub • VS Code • Figma • Adobe Illustrator
 - 🌐 [Portfolio](https://jahidhossen-portfolio.vercel.app/)
 - 📧 contactjahiddev@gmail.com
 
----
+
 
 # 🚀 Let's Build Something Amazing Together!
 
