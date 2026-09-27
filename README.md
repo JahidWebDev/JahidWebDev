@@ -52,10 +52,6 @@ using React, Node.js and MongoDB.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JahidWebDev&theme=dark)](https://git.io/streak-stats)
 
-## 📈 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JahidWebDev&layout=compact&theme=dark)
-
  🌐 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jahid227mernfullstackdeveloperbd/)
