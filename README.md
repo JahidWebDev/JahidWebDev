@@ -26,11 +26,32 @@ using React, Node.js and MongoDB.
 
 ## 🚀 About Me
 
-- 🔭 Currently working on MERN Stack projects
-- 🌱 Learning Advanced React & Node.js
-- 💻 Frontend + MERN Stack Developer
-- 🎨 UI/UX interested
-- ⚡ Love creating animated websites
+- 💻 Frontend & MERN Stack Developer
+- ⚛️ React.js Developer
+- 🟢 Node.js & Express.js Developer
+- 🍃 MongoDB Developer
+- 🎨 Tailwind CSS & Responsive UI
+- ✨ GSAP & Web Animations
+- 🔐 REST API & Authentication
+- 🌐 Modern Website Development
+- 📱 Mobile Responsive Web Design
+- 🚀 Performance & SEO-Friendly Websites
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Frontend
+HTML5 • CSS3 • JavaScript • React.js • Tailwind CSS • Redux Toolkit
+
+### Backend
+Node.js • Express.js • MongoDB • REST API • JWT • Mongoose
+
+### Animation & UI
+GSAP • Three.js • React Three Fiber • Framer Motion
+
+### Tools
+Git • GitHub • VS Code • Figma • Adobe Illustrator
 
 ---
 
