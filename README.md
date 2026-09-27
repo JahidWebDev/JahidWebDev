@@ -1,9 +1,6 @@
 <!-- Typing Animation -->
 
-<div>
-
-  <!-- Typing Animation -->
-
+<div align="center">
 
   <a href="https://github.com/JahidWebDev">
     <img
@@ -13,12 +10,12 @@
   </a>
 
   <br><br>
-</div>
- 
- Hi there 👋
 
-Here are some ideas to get you started:
-👋 Hi, I'm Jahid Hossen
+</div>
+
+Hi there 👋
+
+👋 Hi, I'm Jahid Hossen  
 💻 Frontend & MERN Stack Developer
 
 I build modern, responsive and interactive web applications
@@ -40,7 +37,6 @@ using React, Node.js and MongoDB.
 - 🚀 Performance & SEO-Friendly Websites
 
 ---
----
 
 ## 🛠️ Technologies & Tools
 
@@ -50,15 +46,19 @@ using React, Node.js and MongoDB.
 <td width="65%" valign="top" style="border: none;">
 
 ### Frontend
+
 HTML5 • CSS3 • JavaScript • React.js • **Next.js** • Tailwind CSS • Redux Toolkit
 
 ### Backend
+
 Node.js • Express.js • MongoDB • REST API • JWT • Mongoose
 
 ### Animation & UI
+
 GSAP • Three.js • React Three Fiber • Framer Motion
 
 ### Tools
+
 Git • GitHub • VS Code • Figma • Adobe Illustrator
 
 </td>
@@ -77,7 +77,6 @@ Git • GitHub • VS Code • Figma • Adobe Illustrator
 </table>
 
 ---
----
 
 ## 🛠️ Tech Stack
 
@@ -85,14 +84,18 @@ Git • GitHub • VS Code • Figma • Adobe Illustrator
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,git,github,figma,gsap" />
 </p>
 
+---
 
- 🌐 Connect With Me
+## 🌐 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jahid227mernfullstackdeveloperbd/)
 - 🌐 [Portfolio](https://jahidhossen-portfolio.vercel.app/)
 - 📧 contactjahiddev@gmail.com
 
-🚀 Let's Build Something Amazing Together!
+---
+
+# 🚀 Let's Build Something Amazing Together!
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -101,4 +104,3 @@ Git • GitHub • VS Code • Figma • Adobe Illustrator
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
