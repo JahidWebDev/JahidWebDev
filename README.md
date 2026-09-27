@@ -60,9 +60,9 @@ using React, Node.js and MongoDB.
 
  🌐 Connect With Me
 
-- 💼 LinkedIn
-- 🌐 Portfolio
-- 📧 Email
+- 💼 [LinkedIn](https://www.linkedin.com/in/jahid227mernfullstackdeveloperbd/)
+- 🌐 [Portfolio](https://jahidhossen-portfolio.vercel.app/)
+- 📧 contactjahiddev@gmail.com
 
 🚀 Let's Build Something Amazing Together!
 - 🔭 I’m currently working on ...
