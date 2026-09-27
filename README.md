@@ -44,7 +44,7 @@ using React, Node.js and MongoDB.
 ## 🛠️ Technologies & Tools
 
 <table>
-<tr>
+
 <td width="65%" valign="top">
 
 ### Frontend
@@ -70,7 +70,7 @@ Git • GitHub • VS Code • Figma • Adobe Illustrator
 />
 
 </td>
-</tr>
+
 </table>
 
 ---
