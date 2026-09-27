@@ -36,8 +36,8 @@ using React, Node.js and MongoDB.
 
 ## 🛠️ Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,git,github,figma" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,git,github,figma,gsap" />
 </p>
 
 
