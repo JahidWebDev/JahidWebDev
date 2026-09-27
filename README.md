@@ -25,32 +25,30 @@ using React, Node.js and MongoDB.
 
 ## 🚀 About Me
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div align="center">
 
-  <div style="width: 62%;">
-
-    - 💻 Frontend & MERN Stack Developer
-    - ⚛️ React.js Developer
-    - 🟢 Node.js & Express.js Developer
-    - 🍃 MongoDB Developer
-    - 🎨 Tailwind CSS & Responsive UI
-    - ✨ GSAP & Web Animations
-    - 🔐 REST API & Authentication
-    - 🌐 Modern Website Development
-    - 📱 Mobile Responsive Web Design
-    - 🚀 Performance & SEO-Friendly Websites
-
-  </div>
-
-  <div style="width: 35%; text-align: center;">
-
-    <img
-      src="https://raw.githubusercontent.com/JahidWebDev/JahidWebDev/main/3.gif"
-      width="280"
-      alt="Jahid Hossen Coding Animation"
-    />
+  <div>
+    
+- 💻 Frontend & MERN Stack Developer
+- ⚛️ React.js Developer
+- 🟢 Node.js & Express.js Developer
+- 🍃 MongoDB Developer
+- 🎨 Tailwind CSS & Responsive UI
+- ✨ GSAP & Web Animations
+- 🔐 REST API & Authentication
+- 🌐 Modern Website Development
+- 📱 Mobile Responsive Web Design
+- 🚀 Performance & SEO-Friendly Websites
 
   </div>
+
+  <br>
+
+  <img
+    src="https://raw.githubusercontent.com/JahidWebDev/JahidWebDev/main/3.gif"
+    width="280"
+    alt="Jahid Hossen Coding Animation"
+  />
 
 </div>
 
