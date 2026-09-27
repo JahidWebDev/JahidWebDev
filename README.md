@@ -14,15 +14,12 @@
 
   <!-- Coding Animation -->
 <img
-  src="./assets/profile.png"
+  src="https://raw.githubusercontent.com/JahidWebDev/JahidWebDev/main/3.gif"
   width="400"
-  alt="Jahid Hossen Profile"
+  alt="Coding Animation"
 />
 
-  <br />
-
-  <h3>💻 Always Coding, Always Learning 🚀</h3>
-
+<h3>💻 Always Coding, Always Learning 🚀</h3>
 </div>
  
  Hi there 👋
