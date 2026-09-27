@@ -24,9 +24,10 @@ using React, Node.js and MongoDB.
 ---
 ## 🚀 About Me
 
-<div align="left">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
 
-  <div style="display: inline-block; width: 60%; vertical-align: top;">
+<td width="65%" valign="middle">
 
 - 💻 Frontend & MERN Stack Developer
 - ⚛️ React.js Developer
@@ -39,9 +40,9 @@ using React, Node.js and MongoDB.
 - 📱 Mobile Responsive Web Design
 - 🚀 Performance & SEO-Friendly Websites
 
-  </div>
+</td>
 
-  <div style="display: inline-block; width: 35%; vertical-align: middle; text-align: center;">
+<td width="35%" align="center" valign="middle">
 
 <img
   src="https://raw.githubusercontent.com/JahidWebDev/JahidWebDev/main/3.gif"
@@ -49,9 +50,10 @@ using React, Node.js and MongoDB.
   alt="Jahid Hossen Coding Animation"
 />
 
-  </div>
+</td>
 
-</div>
+</tr>
+</table>
 
 ## 🛠️ Technologies & Tools
 
