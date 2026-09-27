@@ -25,6 +25,10 @@ using React, Node.js and MongoDB.
 
 ## 🚀 About Me
 
+<div align="left">
+
+<div style="display: inline-block; width: 65%; vertical-align: top;">
+
 - 💻 Frontend & MERN Stack Developer
 - ⚛️ React.js Developer
 - 🟢 Node.js & Express.js Developer
@@ -36,13 +40,21 @@ using React, Node.js and MongoDB.
 - 📱 Mobile Responsive Web Design
 - 🚀 Performance & SEO-Friendly Websites
 
+</div>
+
+<div style="display: inline-block; width: 30%; text-align: center; vertical-align: middle;">
+
+<img
+  src="https://raw.githubusercontent.com/JahidWebDev/JahidWebDev/main/3.gif"
+  width="280"
+  alt="Jahid Hossen Coding Animation"
+/>
+
+</div>
+
+</div>
 
 ## 🛠️ Technologies & Tools
-
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-
-<td width="65%" valign="top" style="border: 0;">
 
 ### Frontend
 
@@ -59,22 +71,6 @@ GSAP • Three.js • React Three Fiber • Framer Motion
 ### Tools
 
 Git • GitHub • VS Code • Figma • Adobe Illustrator
-
-</td>
-
-<td width="35%" align="center" valign="middle" style="border: 0;">
-
-<img
-  src="https://raw.githubusercontent.com/JahidWebDev/JahidWebDev/main/3.gif"
-  width="280"
-  alt="Jahid Hossen Coding Animation"
-/>
-
-</td>
-
-</tr>
-</table>
-
 
 
 ## 🛠️ Tech Stack
