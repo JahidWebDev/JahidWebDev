@@ -1,17 +1,3 @@
-<!-- Animated Developer Header -->
-
-<div align="center">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0AE448,100:191919&height=250&section=header&text=Jahid%20Hossen&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20%26%20MERN%20Stack%20Developer&descAlignY=58&descSize=18"
-  width="100%"
-  alt="Jahid Hossen"
-/>
-
-</div>
-
-<br />
-
 <!-- Typing Animation -->
 
 <div align="center">
