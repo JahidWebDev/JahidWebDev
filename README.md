@@ -27,7 +27,7 @@ using React, Node.js and MongoDB.
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 
-<td width="65%" valign="middle">
+<td width="50%" valign="middle">
 
 - 💻 Frontend & MERN Stack Developer
 - ⚛️ React.js Developer
@@ -42,7 +42,7 @@ using React, Node.js and MongoDB.
 
 </td>
 
-<td width="35%" align="center" valign="middle">
+<td width="50%" align="center" valign="middle">
 
 <img
   src="https://raw.githubusercontent.com/JahidWebDev/JahidWebDev/main/3.gif"
