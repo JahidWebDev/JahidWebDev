@@ -43,8 +43,12 @@ using React, Node.js and MongoDB.
 
 ## 🛠️ Technologies & Tools
 
+<table>
+<tr>
+<td width="65%" valign="top">
+
 ### Frontend
-HTML5 • CSS3 • JavaScript • React.js • Tailwind CSS • Redux Toolkit
+HTML5 • CSS3 • JavaScript • React.js • **Next.js** • Tailwind CSS • Redux Toolkit
 
 ### Backend
 Node.js • Express.js • MongoDB • REST API • JWT • Mongoose
@@ -54,6 +58,20 @@ GSAP • Three.js • React Three Fiber • Framer Motion
 
 ### Tools
 Git • GitHub • VS Code • Figma • Adobe Illustrator
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img
+  src="https://raw.githubusercontent.com/JahidWebDev/JahidWebDev/main/3.gif"
+  width="300"
+  alt="Jahid Hossen Coding Animation"
+/>
+
+</td>
+</tr>
+</table>
 
 ---
 
