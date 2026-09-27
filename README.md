@@ -76,7 +76,7 @@ Git • GitHub • VS Code • Figma • Adobe Illustrator
 </tr>
 </table>
 
----
+
 
 ## 🛠️ Tech Stack
 
