@@ -1,6 +1,6 @@
 <!-- Typing Animation -->
 
-<div align="center">
+<div>
 
   <!-- Typing Animation -->
 
