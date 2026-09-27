@@ -25,6 +25,8 @@ using React, Node.js and MongoDB.
 
 ## 🚀 About Me
 
+## 🚀 About Me
+
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 
@@ -42,8 +44,8 @@ using React, Node.js and MongoDB.
 - 🚀 Performance & SEO-Friendly Websites
 
 </td>
-</td>
 
+<td width="45%" align="center" valign="middle">
 
 <img
   src="https://raw.githubusercontent.com/JahidWebDev/JahidWebDev/main/3.gif"
