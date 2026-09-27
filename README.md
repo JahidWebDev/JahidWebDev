@@ -48,10 +48,6 @@ using React, Node.js and MongoDB.
 
 ![Jahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=JahidWebDev&show_icons=true&theme=dark)
 
-🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=JahidWebDev&theme=dark)](https://git.io/streak-stats)
-
  🌐 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jahid227mernfullstackdeveloperbd/)
