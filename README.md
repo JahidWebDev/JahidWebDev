@@ -46,7 +46,7 @@ using React, Node.js and MongoDB.
 
 <img
   src="https://raw.githubusercontent.com/JahidWebDev/JahidWebDev/main/3.gif"
-  width="380"
+  width="450"
   alt="Jahid Hossen Coding Animation"
 />
 
@@ -56,22 +56,21 @@ using React, Node.js and MongoDB.
 </table>
 ## 🛠️ Technologies & Tools
 
-### Frontend
+#### Frontend
 
 HTML5 • CSS3 • JavaScript • React.js • **Next.js** • Tailwind CSS • Redux Toolkit
 
-### Backend
+#### Backend
 
 Node.js • Express.js • MongoDB • REST API • JWT • Mongoose
 
-### Animation & UI
+#### Animation & UI
 
 GSAP • Three.js • React Three Fiber • Framer Motion
 
-### Tools
+#### Tools
 
 Git • GitHub • VS Code • Figma • Adobe Illustrator
-
 
 ## 🛠️ Tech Stack
 
