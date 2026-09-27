@@ -42,7 +42,7 @@ using React, Node.js and MongoDB.
 - 🚀 Performance & SEO-Friendly Websites
 
 </td>
-
+</td>
 
 
 <img
@@ -51,7 +51,7 @@ using React, Node.js and MongoDB.
   alt="Jahid Hossen Coding Animation"
 />
 
-
+</td>
 
 </tr>
 </table>
