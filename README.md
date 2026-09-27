@@ -43,7 +43,7 @@ using React, Node.js and MongoDB.
 
 </td>
 
-<td width="45%" align="center" valign="middle">
+
 
 <img
   src="https://raw.githubusercontent.com/JahidWebDev/JahidWebDev/main/3.gif"
@@ -51,7 +51,7 @@ using React, Node.js and MongoDB.
   alt="Jahid Hossen Coding Animation"
 />
 
-</td>
+
 
 </tr>
 </table>
