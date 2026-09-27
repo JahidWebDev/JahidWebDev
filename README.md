@@ -37,13 +37,12 @@ using React, Node.js and MongoDB.
 - 🚀 Performance & SEO-Friendly Websites
 
 
-
 ## 🛠️ Technologies & Tools
 
-<table width="100%">
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
 
-<td width="65%" valign="top" style="border: none;">
+<td width="65%" valign="top" style="border: 0;">
 
 ### Frontend
 
@@ -63,11 +62,11 @@ Git • GitHub • VS Code • Figma • Adobe Illustrator
 
 </td>
 
-<td width="35%" align="center">
+<td width="35%" align="center" valign="middle" style="border: 0;">
 
 <img
   src="https://raw.githubusercontent.com/JahidWebDev/JahidWebDev/main/3.gif"
-  width="300"
+  width="280"
   alt="Jahid Hossen Coding Animation"
 />
 
