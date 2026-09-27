@@ -63,7 +63,7 @@ Git • GitHub • VS Code • Figma • Adobe Illustrator
 
 </td>
 
-<td width="35%" align="center" valign="middle" style="border: none;">
+<td width="35%" align="center">
 
 <img
   src="https://raw.githubusercontent.com/JahidWebDev/JahidWebDev/main/3.gif"
