@@ -22,9 +22,10 @@ I build modern, responsive and interactive web applications
 using React, Node.js and MongoDB.
 
 ---
+
 ## 🚀 About Me
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 
 <td width="55%" valign="middle">
@@ -46,7 +47,7 @@ using React, Node.js and MongoDB.
 
 <img
   src="https://raw.githubusercontent.com/JahidWebDev/JahidWebDev/main/3.gif"
-  width="450"
+  width="400"
   alt="Jahid Hossen Coding Animation"
 />
 
@@ -54,31 +55,39 @@ using React, Node.js and MongoDB.
 
 </tr>
 </table>
+
+<br>
+
 ## 🛠️ Technologies & Tools
 
-#### Frontend
+### Frontend
 
 HTML5 • CSS3 • JavaScript • React.js • **Next.js** • Tailwind CSS • Redux Toolkit
 
-#### Backend
+### Backend
 
 Node.js • Express.js • MongoDB • REST API • JWT • Mongoose
 
-#### Animation & UI
+### Animation & UI
 
 GSAP • Three.js • React Three Fiber • Framer Motion
 
-#### Tools
+### Tools
 
 Git • GitHub • VS Code • Figma • Adobe Illustrator
 
+<br>
+
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,git,github,figma,gsap" />
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,git,github,figma,gsap"
+    alt="Tech Stack"
+  />
 </p>
 
-
+<br>
 
 ## 🌐 Connect With Me
 
@@ -86,7 +95,7 @@ Git • GitHub • VS Code • Figma • Adobe Illustrator
 - 🌐 [Portfolio](https://jahidhossen-portfolio.vercel.app/)
 - 📧 contactjahiddev@gmail.com
 
-
+<br>
 
 # 🚀 Let's Build Something Amazing Together!
 
