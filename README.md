@@ -40,7 +40,7 @@ using React, Node.js and MongoDB.
 
 ## 🛠️ Technologies & Tools
 
-<table border="0" width="100%">
+<table width="100%">
 <tr>
 
 <td width="65%" valign="top" style="border: none;">
