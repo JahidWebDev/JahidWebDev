@@ -44,10 +44,6 @@ using React, Node.js and MongoDB.
 </p>
 
 
- 📊 GitHub Stats
-
-![Jahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=JahidWebDev&show_icons=true&theme=dark)
-
  🌐 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jahid227mernfullstackdeveloperbd/)
