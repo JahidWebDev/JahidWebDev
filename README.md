@@ -40,12 +40,14 @@ using React, Node.js and MongoDB.
 - 🚀 Performance & SEO-Friendly Websites
 
 ---
+---
 
 ## 🛠️ Technologies & Tools
 
-<table>
+<table border="0" width="100%">
+<tr>
 
-<td width="65%" valign="top">
+<td width="65%" valign="top" style="border: none;">
 
 ### Frontend
 HTML5 • CSS3 • JavaScript • React.js • **Next.js** • Tailwind CSS • Redux Toolkit
@@ -61,7 +63,7 @@ Git • GitHub • VS Code • Figma • Adobe Illustrator
 
 </td>
 
-<td width="35%" align="center" valign="middle">
+<td width="35%" align="center" valign="middle" style="border: none;">
 
 <img
   src="https://raw.githubusercontent.com/JahidWebDev/JahidWebDev/main/3.gif"
@@ -71,8 +73,10 @@ Git • GitHub • VS Code • Figma • Adobe Illustrator
 
 </td>
 
+</tr>
 </table>
 
+---
 ---
 
 ## 🛠️ Tech Stack
