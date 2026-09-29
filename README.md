@@ -43,7 +43,7 @@ using React, Node.js and MongoDB.
 
 </td>
 
-<td width="40%" align="center" valign="middle">
+<td width="60%" align="center" valign="middle">
 
 <img
   src="https://raw.githubusercontent.com/JahidWebDev/JahidWebDev/main/3.gif"
