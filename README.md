@@ -25,7 +25,7 @@ using React, Node.js and MongoDB.
 
 ## 🚀 About Me
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<div width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 
 <td width="80%" >
@@ -54,7 +54,7 @@ using React, Node.js and MongoDB.
 </td>
 
 </tr>
-</table>
+</div>
 
 <br>
 
