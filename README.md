@@ -23,8 +23,8 @@
 
 <!-- ===================================================== -->
 
-# Hi there 👋
-
+ Hi there 👋
+---
 👋 Hi, I'm Jahid Hossen
 💻 Frontend & MERN Stack Developer
 
@@ -40,7 +40,7 @@ using React, Node.js and MongoDB.
 <!-- ===================================================== -->
 
 ### 🚀 About Me
----
+
 <table width="100%">
   <tr>
     <td width="58%" valign="middle">
