@@ -31,7 +31,7 @@
 I build modern, responsive and interactive web applications
 using React, Node.js and MongoDB.
 
----
+
 
 <!-- ===================================================== -->
 
@@ -40,7 +40,7 @@ using React, Node.js and MongoDB.
 <!-- ===================================================== -->
 
 ### 🚀 About Me
-
+---
 <table width="100%">
   <tr>
     <td width="58%" valign="middle">
