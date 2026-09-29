@@ -26,6 +26,8 @@ using React, Node.js and MongoDB.
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
 
+  <!-- Left: About Me -->
+
   <div style="width: 55%;">
 
 * 💻 Frontend & MERN Stack Developer
@@ -41,15 +43,22 @@ using React, Node.js and MongoDB.
 
   </div>
 
+  <!-- Right: Coding Animation -->
+
   <div style="width: 40%; text-align: center;">
 
+
 <img
-src="https://raw.githubusercontent.com/JahidWebDev/JahidWebDev/main/3.gif"
-width="400"
-alt="Jahid Hossen Coding Animation"
+  src="https://raw.githubusercontent.com/JahidWebDev/JahidWebDev/main/3.gif"
+  width="400"
+  alt="Jahid Hossen Coding Animation"
 />
 
+
   </div>
+
+
+
 
 </div>
 
