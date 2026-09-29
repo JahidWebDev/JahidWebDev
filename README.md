@@ -23,14 +23,14 @@
 
 <!-- ===================================================== -->
 
- ### Hi there 👋
----
-👋 Hi, I'm Jahid Hossen
+👋 Hi there, I'm Jahid Hossen
 💻 Frontend & MERN Stack Developer
 
-I build modern, responsive and interactive web applications
-using React, Node.js and MongoDB.
+I build modern, responsive, interactive and SEO-friendly web applications using React.js, Node.js, Express.js and MongoDB.
 
+I focus on creating clean user interfaces, responsive websites, smooth animations, REST APIs and scalable web applications with modern web technologies.
+
+<br>
 
 
 <!-- ===================================================== -->
@@ -39,22 +39,22 @@ using React, Node.js and MongoDB.
 
 <!-- ===================================================== -->
 
-### 🚀 About Me
+### 🚀 What I Do
 
 <table width="100%">
   <tr>
     <td width="58%" valign="middle">
 
-* 💻 Frontend & MERN Stack Developer
-* ⚛️ React.js Developer
-* 🟢 Node.js & Express.js Developer
-* 🍃 MongoDB Developer
-* 🎨 Tailwind CSS & Responsive UI
-* ✨ GSAP & Web Animations
+* 💻 Frontend Web Development with React.js
+* ⚛️ Modern UI Development with Tailwind CSS
+* 🟢 Backend Development with Node.js & Express.js
+* 🍃 Database Development with MongoDB
 * 🔐 REST API & Authentication
-* 🌐 Modern Website Development
+* ✨ GSAP & Interactive Web Animations
 * 📱 Mobile Responsive Web Design
+* 🌐 Modern Business & Portfolio Websites
 * 🚀 Performance & SEO-Friendly Websites
+* 🔧 Full-Stack MERN Web Applications
 
     </td>
 
