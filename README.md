@@ -25,8 +25,6 @@ using React, Node.js and MongoDB.
 
 ## 🚀 About Me
 
-## 🚀 About Me
-
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 
