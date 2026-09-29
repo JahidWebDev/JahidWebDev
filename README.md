@@ -66,9 +66,9 @@ width="400"
 alt="Jahid Hossen Coding Animation"
 />
 
-```
+
 </td>
-```
+
 
   </tr>
 </table>
