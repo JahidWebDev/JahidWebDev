@@ -22,39 +22,37 @@ I build modern, responsive and interactive web applications
 using React, Node.js and MongoDB.
 
 ---
-
 ## 🚀 About Me
 
-<div width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
 
-<td width="80%" >
+  <div style="width: 55%;">
 
-- 💻 Frontend & MERN Stack Developer
-- ⚛️ React.js Developer
-- 🟢 Node.js & Express.js Developer
-- 🍃 MongoDB Developer
-- 🎨 Tailwind CSS & Responsive UI
-- ✨ GSAP & Web Animations
-- 🔐 REST API & Authentication
-- 🌐 Modern Website Development
-- 📱 Mobile Responsive Web Design
-- 🚀 Performance & SEO-Friendly Websites
+* 💻 Frontend & MERN Stack Developer
+* ⚛️ React.js Developer
+* 🟢 Node.js & Express.js Developer
+* 🍃 MongoDB Developer
+* 🎨 Tailwind CSS & Responsive UI
+* ✨ GSAP & Web Animations
+* 🔐 REST API & Authentication
+* 🌐 Modern Website Development
+* 📱 Mobile Responsive Web Design
+* 🚀 Performance & SEO-Friendly Websites
 
-</td>
+  </div>
 
-<td width="60%" align="center"">
+  <div style="width: 40%; text-align: center;">
 
 <img
-  src="https://raw.githubusercontent.com/JahidWebDev/JahidWebDev/main/3.gif"
-  width="400"
-  alt="Jahid Hossen Coding Animation"
+src="https://raw.githubusercontent.com/JahidWebDev/JahidWebDev/main/3.gif"
+width="400"
+alt="Jahid Hossen Coding Animation"
 />
 
-</td>
+  </div>
 
-</tr>
 </div>
+
 
 <br>
 ### 🤝 Connect with me:
